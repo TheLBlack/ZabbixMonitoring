@@ -1,0 +1,5 @@
+name: ZMonitoring
+author: TheLBlack
+version: 1.0
+main: mc.thelblack.monitoring.bungee.MainBungee
+api-version: 1.13
